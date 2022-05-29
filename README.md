@@ -1,8 +1,8 @@
 ### <div align="center">Hi there 👋
-### <div align="center">I'm Jihyeon, a constantly challenging developer 🥰</div>  
+### <div align="center">I'm ```Jihyeon```, a constantly challenging developer 🥰</div>  
 
--  ❤️ I’m currently learning Statistics, AI.  
--  🧡 I’m interseted in Data Science.  
+- I’m currently learning ```Statistics```, ```AI```.  
+- I’m interseted in ```Data Science```.  
 
 <br/>  
   

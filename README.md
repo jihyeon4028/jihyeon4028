@@ -1,8 +1,5 @@
 ### Hi there 👋
-### I'm ```Jihyeon```, a constantly challenging developer 🥰</div>  
-
-- I’m currently learning ```Statistics```, ```AI```.  
-- I’m interseted in ```Data Science```.  
+### I'm ```Jihyeon``` 🥰</div>  
 
   
 ## 💗 Languages
